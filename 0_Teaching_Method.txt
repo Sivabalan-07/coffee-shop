@@ -1,0 +1,47 @@
+STEP_1:
+1.1 Buy A3 Sheets
+1.2 Note
+1.3 4 Color Pens (Blue,Black,red,green)
+1.4 Teach Component Identification (3 Websites)
+1.5 Default HTML (3 Websites)
+
+STEP_2:(Component Level Coding)
+2.1 Write in Excel Sheets
+2.2 Write in A3 Sheets
+2.3 Write in Visual Studio code
+2.4 Update in PPT with color Boxes
+
+STEP_3:(Row Level Coding)
+2.1 Write in Excel Sheets
+2.2 Write in A3 Sheets
+2.3 Write in Visual Studio code
+2.4 Update in PPT with color Boxes
+
+STEP_4:(Column Level Coding)
+2.1 Write in Excel Sheets
+2.2 Write in A3 Sheets
+2.3 Write in Visual Studio code
+2.4 Update in PPT with color Boxes
+
+STEP_5:(ContentContainer Level Coding)
+2.1 Write in Excel Sheets
+2.2 Write in A3 Sheets
+2.3 Write in Visual Studio code
+2.4 Update in PPT with color Boxes
+
+STEP_6:(Content Level Coding)
+2.1 Write in Excel Sheets
+2.2 Write in A3 Sheets
+2.3 Write in Visual Studio code
+2.4 Update in PPT with color Boxes
+
+STEP_6:(Content Level Coding)
+2.1 Write in Excel Sheets
+2.2 Write in A3 Sheets
+2.3 Write in Visual Studio code
+2.4 Update in PPT with color Boxes
+
+
+
+
+
